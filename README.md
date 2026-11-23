@@ -1,0 +1,2 @@
+# Tradescanner
+AI SCANNER TRADES
